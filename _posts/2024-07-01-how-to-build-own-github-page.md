@@ -4,7 +4,7 @@ title: How to build a github page
 categories: [Project, Github]
 ---
 
-# Setting Up My Personal Homepage with GitHub Pages and Jekyll (Reverie Template)
+# Setting Up My Own Site  with GitHub Pages and Jekyll (Reverie Template)
 
 ## Introduction
 
