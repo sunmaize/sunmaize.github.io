@@ -4,6 +4,17 @@ title: Precision Matters - A Deep Dive into Java BigDecimal
 categories: [Java]
 ---
 
+- [What Is `BigDecimal`?](#what-is--bigdecimal--)
+    * [Key Features:](#key-features-)
+- [Creating a `BigDecimal`](#creating-a--bigdecimal-)
+- [Common Operations with `BigDecimal`](#common-operations-with--bigdecimal-)
+    * [Addition, Subtraction, Multiplication, and Division](#addition--subtraction--multiplication--and-division)
+    * [Common Rounding Modes](#common-rounding-modes)
+    * [Avoiding Precision Loss in Financial Applications](#avoiding-precision-loss-in-financial-applications)
+- [Performance Considerations](#performance-considerations)
+- [Conclusion](#conclusion)
+
+
 In Java, when dealing with financial calculations or any situation where precision is paramount, `float` and `double` types are often not precise enough. This is because they use binary floating-point arithmetic, which can introduce rounding errors during calculations. To avoid these pitfalls, Java provides the `BigDecimal` class, a powerful tool for handling precise calculations.
 
 ## Why Not Use `float` or `double`?

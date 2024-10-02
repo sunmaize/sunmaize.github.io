@@ -4,6 +4,17 @@ title: Understanding Service Provider Interface (SPI) in Java
 categories: [Java]
 ---
 
+- [What is SPI?](#what-is-spi-)
+   * [Key Benefits of Using SPI:](#key-benefits-of-using-spi-)
+- [Components of SPI](#components-of-spi)
+- [Example of Using SPI](#example-of-using-spi)
+   * [Step 1: Define the Service Interface](#step-1--define-the-service-interface)
+   * [Step 2: Implement the Service](#step-2--implement-the-service)
+   * [Step 3: Create the Service Configuration File](#step-3--create-the-service-configuration-file)
+   * [Step 4: Load the Service Using ServiceLoader](#step-4--load-the-service-using-serviceloader)
+   * [Step 5: Running the Application](#step-5--running-the-application)
+- [Conclusion](#conclusion)
+
 In Java, the Service Provider Interface (SPI) is a powerful mechanism that enables developers to implement a plug-in architecture, allowing different implementations of a service to be discovered and used at runtime. This article will provide an overview of SPI, its components, and how to effectively use it in your Java applications.
 
 ## What is SPI?

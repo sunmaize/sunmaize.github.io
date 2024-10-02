@@ -4,6 +4,30 @@ title: Common Syntactic Sugar in Java
 categories: [Java]
 ---
 
+- [1. Enhanced For Loop (For-Each Loop)](#1-enhanced-for-loop--for-each-loop-)
+    * [Example:](#example-)
+    * [Behind the Scenes:](#behind-the-scenes-)
+- [2. Auto-Boxing and Auto-Unboxing](#2-auto-boxing-and-auto-unboxing)
+    * [Example:](#example--1)
+    * [Behind the Scenes:](#behind-the-scenes--1)
+- [3. Varargs (Variable-Length Arguments)](#3-varargs--variable-length-arguments-)
+    * [Example:](#example--2)
+    * [Behind the Scenes:](#behind-the-scenes--2)
+- [4. Diamond Operator (`<>`)](#4-diamond-operator-------)
+    * [Example:](#example--3)
+    * [Behind the Scenes:](#behind-the-scenes--3)
+- [5. Try-With-Resources](#5-try-with-resources)
+    * [Example:](#example--4)
+    * [Behind the Scenes:](#behind-the-scenes--4)
+- [6. Switch Expressions (Java 12+)](#6-switch-expressions--java-12--)
+    * [Example:](#example--5)
+    * [Behind the Scenes:](#behind-the-scenes--5)
+- [7. String Concatenation with `+`](#7-string-concatenation-with----)
+    * [Example:](#example--6)
+    * [Behind the Scenes:](#behind-the-scenes--6)
+- [Conclusion](#conclusion)
+
+
 Syntactic sugar refers to language features that make code easier to read or write without adding new functionality. In Java, there are several common syntactic sugars that simplify programming tasks, making the language more user-friendly and expressive.
 
 In this article, we'll explore some of the most popular syntactic sugars in Java, explaining how they work behind the scenes and when to use them.

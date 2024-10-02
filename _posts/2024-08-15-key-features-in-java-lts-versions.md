@@ -4,6 +4,14 @@ title: Key Features of Java Long-Term Support (LTS) Versions
 categories: [Java]
 ---
 
+- [What is an LTS Version?](#what-is-an-lts-version-)
+- [Key Features of Java LTS Versions](#key-features-of-java-lts-versions)
+  * [1. Java 8 (Released in March 2014)](#1-java-8--released-in-march-2014-)
+  * [2. Java 11 (Released in September 2018)](#2-java-11--released-in-september-2018-)
+  * [3. Java 17 (Released in September 2021)](#3-java-17--released-in-september-2021-)
+  * [4. Java 21 (Released in September 2023)](#4-java-21--released-in-september-2023-)
+- [Conclusion](#conclusion)
+
 Java is renowned for its stability, reliability, and ongoing commitment to improvements. One of the notable aspects of Java is its Long-Term Support (LTS) versions, which are maintained and updated for several years. This article will discuss the key features of the most recent LTS versions of Java: Java 8, Java 11, Java 17, and Java 21.
 
 ## What is an LTS Version?

@@ -4,6 +4,17 @@ title: Understanding Pass by Value and Pass by Reference - Why Java is Pass by V
 categories: [Java]
 ---
 
+- [What is Pass by Value?](#what-is-pass-by-value-)
+    * [Example of Pass by Value](#example-of-pass-by-value)
+- [What is Pass by Reference?](#what-is-pass-by-reference-)
+- [How Java Handles Object Passing: Pass by Value for Object References](#how-java-handles-object-passing--pass-by-value-for-object-references)
+- [Why Java is Pass by Value](#why-java-is-pass-by-value)
+    * [Analogy: Copying an Address](#analogy--copying-an-address)
+- [Key Takeaways](#key-takeaways)
+- [Conclusion](#conclusion)
+
+
+
 In programming, one of the most common points of confusion is the difference between **pass by value** and **pass by reference**. Understanding these concepts is important for mastering how variables are passed to methods. Java, in particular, is often mistakenly thought to pass objects by reference, but this is incorrect—**Java is pass by value**.
 
 In this article, we'll explore the differences between the two, explain why Java is pass by value, and illustrate the concepts with code examples.
