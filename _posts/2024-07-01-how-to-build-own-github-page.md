@@ -1,10 +1,8 @@
 ---
 layout: post
-title: How to build a github page
+title: Setting Up My Own Site  with GitHub Pages and Jekyll (Reverie Template)
 categories: [Project, Github]
 ---
-
-# Setting Up My Own Site  with GitHub Pages and Jekyll (Reverie Template)
 
 ## Introduction
 
